@@ -1,7 +1,7 @@
 esta es la historia de artur
 
 hoy vamos a hablar de mi
-tengo 26 años
+tengo 27 años
 
 En este momento vivo en colombia
 
@@ -9,3 +9,4 @@ Mi estatura es de aproximadamente 1.70 m
 
 Hoy se esfuerza para estudiar y ser alguien feliz
 
+Mi meta es aprender actual es aprender python
